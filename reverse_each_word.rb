@@ -17,4 +17,4 @@ def reverse_each_word(sentence)
     reversed_words << words.reverse 
   reversed_words.join(" ")
 end 
-reversed_words
+reversed_each_word
